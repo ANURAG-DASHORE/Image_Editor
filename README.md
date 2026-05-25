@@ -1,6 +1,6 @@
 This program do basic operation to an image such as blur,grayscale,edges,original
 
-# OpenCV Image Processing Basics
+# IMAGE EDITOR PRO (OpenCV Image Processing Basics)
 
 This script performs basic image processing operations using OpenCV in Python. It loads an image and simultaneously displays the original version alongside grayscale, blurred, and edge-detected outputs.
 
